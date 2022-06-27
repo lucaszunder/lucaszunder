@@ -6,7 +6,7 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Lucas Zunder</h1>
- <h2 align="left">👋 Fala devs e devas! Bem-vindos ao meu perfil no github.</h1>
+ <h2 align="left">👋 Fala devs e devas! Tudo bem? </h1>
  <h3 align="left">Meu nome é Lucas, e trabalho como engenheiro de software na Catho Online</h1>
 
 </div>
