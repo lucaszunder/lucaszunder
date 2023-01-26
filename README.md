@@ -7,7 +7,7 @@
  
  <h1 align="left">Lucas Zunder</h1>
  <h2 align="left">👋 Hi there! How are u? </h1>
- <h3 align="left">My name is Lucas Zunder and i'm currently software engineer in Catho Online</h1>
+ <h3 align="left">My name is Lucas Zunder and i'm currently software engineer at Invillia</h1>
 
 </div>
 </br>
@@ -23,6 +23,7 @@
 
 #### Backend
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="80" height="80" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="80" height="80" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="80" height="80" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="80" height="80" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="80" height="80" /> 
 
 
 #### Frontend
@@ -30,7 +31,7 @@
   
 
 ### What i'm learning?
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="80" height="80" /> 
+
 
 
 ### Contact:
