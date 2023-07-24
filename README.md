@@ -7,7 +7,7 @@
  
  <h1 align="left">Lucas Zunder</h1>
  <h2 align="left">👋 Hi there! How are u? </h1>
- <h3 align="left">My name is Lucas Zunder and i'm currently software engineer at Invillia | BanQi</h1>
+ <h3 align="left">My name is Lucas Zunder and i'm currently software engineer at Teach:able</h1>
 
 </div>
 </br>
