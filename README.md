@@ -14,7 +14,7 @@ Tools: Git, Docker, Kubernetes
 
 Get in Touch
 
-📫 Feel free to reach out to me at devzunder@gmail.com or connect with me on [LinkedIn]([link para seu perfil do LinkedIn](https://www.linkedin.com/in/zunder/))!
+📫 Feel free to reach out to me at devzunder@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/zunder/)!
 
 Let's collaborate and build something awesome together! 😊
 
