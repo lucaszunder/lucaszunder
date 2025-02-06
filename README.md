@@ -7,9 +7,13 @@ Hi there! 👋 I'm Zunder, a passionate senior software engineer with a knack fo
 Skills
 
 Programming Languages: Node.js, Ruby on Rails, Go
+
 Technologies: Amazon Web Services (AWS), Terraform, MongoDB
+
 Architectural Patterns: Microservices, Serverless
+
 Methodologies: Agile (Scrum, Kanban)
+
 Tools: Git, Docker, Kubernetes
 
 Get in Touch
