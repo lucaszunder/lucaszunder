@@ -2,7 +2,7 @@ Lucas Zunder
 
 About Me
 
-Hi there! 👋 I'm Zunder, a passionate senior software engineer with a knack for solving complex problems and building scalable solutions. With over 6 years of experience in the tech industry, I've had the opportunity to work with leading companies such as Catho, Via Varejo Banqi, and TOTVS RD Station, contributing to a wide range of projects and technologies.
+Hi there! 👋 I'm Zunder, a passionate senior software engineer with a knack for solving complex problems and building scalable solutions. With over 7 years of experience in the tech industry, I've had the opportunity to work with leading companies such as Catho, Via Varejo Banqi, and TOTVS RD Station, contributing to a wide range of projects and technologies.
 
 Skills
 
